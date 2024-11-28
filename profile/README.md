@@ -6,8 +6,9 @@ Welcome to the official GitHub page for **JAKD Studios**!
 
 # Our Games
 
-### 🌟 [Synthorium](https://github.com/JAKD-Studios/Synthorium)
-In-development horror game with never-seen-before AI integrations
+### 🌟 [Synthorium (In Development)](https://github.com/JAKD-Studios/Synthorium)
+- Progressing horror game with never-seen-before AI integrations
+- Solo project by [nevolua](https://github.com/nevolua)
 
 
 # Join Our Community
